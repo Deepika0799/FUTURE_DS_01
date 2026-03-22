@@ -49,4 +49,4 @@ This repository contains the analysis and dashboard for **Task 1** of the **Data
 ## File Included
 
 - `FUTURE_DS_01_Task1_Deepika.xlsx` – Excel dashboard with all charts  
-- PNG screenshots for quick view: `Monthly_Sales_Trend.png`, `Top_10_Products.png`, `Region_Sales.png`, `Orders_vs_Revenue.png`
+- PNG screenshots for quick view: `Monthly_Sales_Trend&Top_10_Products.png`, `Region_Sales.png`, `Orders_vs_Revenue.png`
