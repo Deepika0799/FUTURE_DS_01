@@ -12,19 +12,19 @@ This repository contains the analysis and dashboard for **Task 1** of the **Data
 
 1. **Monthly Sales Trend**  
    Revenue trend over time (Line chart)  
-   ![Monthly Sales Trend](Monthly_Sales_Trend.png)
+   
 
 2. **Top 10 Best-Selling Products**  
    Bar chart of top products by revenue  
-   ![Top 10 Products](Top_10_Products.png)
+  
 
 3. **Country / Region Sales**  
    Bar chart showing revenue by region  
-   ![Region Sales](Region_Sales.png)
+   
 
 4. **Orders vs Revenue**  
    Combo chart to show revenue per order  
-   ![Orders vs Revenue](Orders_vs_Revenue.png)
+  
 
 
 
